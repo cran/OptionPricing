@@ -1,0 +1,9 @@
+2cfb670b4e1963568063ba035e82bcaf *DESCRIPTION
+e37278fb6e81dbf2ee7f2688cb456b63 *NAMESPACE
+f9694a01ee554f97595ce2d5d0670ca0 *R/Asian.AppLord.R
+c69194e0f1f0847393e3f0572e1aab95 *R/AsianCall_NCV_CMC_QCV_greeks_qmc.R
+36638da612e50bbff61a861566680f54 *R/BS_European.R
+c4366f2b5ab6cbc7308a438ca69612ca *man/AsianCall.Rd
+aaf26b2270694f02270da8e3b23e6d3e *man/AsianCall_AppLord.Rd
+260746abe2f908be88d3afd8cd42d339 *man/BS_EC.Rd
+a9df9176155889cef7ed601fcca5575a *man/OptionPricing-package.Rd

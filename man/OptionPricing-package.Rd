@@ -10,14 +10,6 @@ The Price, Delta and Gamma of European and Asian Options under Geometric Brownia
 are calculated using the Black-Scholes formula and
 Efficient Monte Carlo and Randomized Quasi Monte Carlo Algorithms.}
 \details{
-\tabular{ll}{
-Package: \tab OptionPricing\cr
-Type: \tab Package\cr
-Version: \tab 0.1\cr
-Date: \tab 2014-11-07\cr
-License: \tab License:	GPL-2 | GPL-3 \cr
-Copyright: \tab Wolfgang Hormann
-}
 The OptionPricing package calculates the Price, Delta and Gamma for European options
 using the Black-Scholes formula (see \code{\link{BS_EC}}).
 The price, Delta and Gamma for Asian call options under geometric Brownian motion are calculated using
